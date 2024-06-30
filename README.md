@@ -19,7 +19,6 @@ Ce projet est un site web de blog simple développé en PHP. Il permet aux utili
 - Gère l'envoi du formulaire de création d'article, en enregistrant les données dans la base de données après validation et upload de l'image.
 
 ### 5. Visualisation d'un Article
-- **Fichier**: `article.php`
 - Affiche un article spécifique basé sur son ID passé en paramètre GET.
 - Vérifie l'existence de l'article avant l'affichage.
 
