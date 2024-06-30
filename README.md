@@ -23,7 +23,6 @@ Ce projet est un site web de blog simple développé en PHP. Il permet aux utili
 - Vérifie l'existence de l'article avant l'affichage.
 
 ### 6. Déconnexion
-- **Fichier**: `deconnexion.php`
 - Permet aux utilisateurs de se déconnecter, détruisant la session et supprimant le cookie de connexion.
 
 ## Structure des Fichiers
