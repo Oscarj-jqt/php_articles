@@ -5,7 +5,6 @@ Ce projet est un site web de blog simple développé en PHP. Il permet aux utili
 ## Fonctionnalités
 
 ### 1. Page de Connexion
-- **Fichier**: `connexion.php`
 - Permet aux utilisateurs de se connecter en utilisant leur identifiant et mot de passe.
 - Option de "Se souvenir de moi" pour garder l'utilisateur connecté.
 
