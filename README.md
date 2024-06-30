@@ -12,7 +12,6 @@ Ce projet est un site web de blog simple développé en PHP. Il permet aux utili
 - Contient des informations statiques sur le site.
 
 ### 3. Ajout d'Article
-- **Fichier**: `ajout_article.php`
 - Formulaire permettant aux utilisateurs de créer un nouvel article en fournissant un titre, un contenu et une image.
 - Les fichiers image sont vérifiés pour ne pas dépasser 1 Mo et doivent être de type image.
 
