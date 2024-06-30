@@ -16,7 +16,6 @@ Ce projet est un site web de blog simple développé en PHP. Il permet aux utili
 - Les fichiers image sont vérifiés pour ne pas dépasser 1 Mo et doivent être de type image.
 
 ### 4. Traitement de l'Ajout d'Article
-- **Fichier**: `ajout_article_traitement.php`
 - Gère l'envoi du formulaire de création d'article, en enregistrant les données dans la base de données après validation et upload de l'image.
 
 ### 5. Visualisation d'un Article
