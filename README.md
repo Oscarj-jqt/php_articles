@@ -9,7 +9,6 @@ Ce projet est un site web de blog simple développé en PHP. Il permet aux utili
 - Option de "Se souvenir de moi" pour garder l'utilisateur connecté.
 
 ### 2. Page d'A propos
-- **Fichier**: `a_propos.php`
 - Contient des informations statiques sur le site.
 
 ### 3. Ajout d'Article
