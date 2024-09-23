@@ -27,4 +27,3 @@ Ce projet est un site web de blog simple développé en PHP. Il permet aux utili
 
 ## Structure des Fichiers
 
-- `fonctions.php`: Contient des fonctions utilitaires comme la 
