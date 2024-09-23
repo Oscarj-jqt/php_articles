@@ -27,5 +27,4 @@ Ce projet est un site web de blog simple développé en PHP. Il permet aux utili
 
 ## Structure des Fichiers
 
-- `header.php` et `footer.php`: Contiennent le code HTML pour 
 - `fonctions.php`: Contient des fonctions utilitaires comme la connexion à la base de données, l'upload de fichiers, et la redirection.
