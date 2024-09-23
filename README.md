@@ -25,5 +25,3 @@ Ce projet est un site web de blog simple développé en PHP. Il permet aux utili
 ### 6. Déconnexion
 - Permet aux utilisateurs de se déconnecter, détruisant la session et supprimant le cookie de connexion.
 
-## Structure des Fichiers
-
